@@ -2,6 +2,6 @@
 de programação: ALURA, com a utilização da plataforma: codepen.</h3>
 
 O resultado final do meu projeto de estudos se encontra neste link:
-https://codepen.io/isadevs/pen/mdRqXdK
+https://codepen.io/isadevs/full/mdRqXdK
 
 transferring from codepen to git hub -easy version
